@@ -1,0 +1,76 @@
+
+.box{
+	min-height: 200px;
+
+}
+
+.lime{
+	background-color: lime;
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.parallax-window {
+    min-height: 800px;
+    background: transparent;
+}
+
+.boxg{
+	/*width: 150px !important;*/
+	min-height: 180px;
+	padding: 10px 10px;
+	background-color: black;
+
+}
+
+.boxg img{
+	width: 100%;
+}
+
+.slider{
+	background-color: black;
+}
+
+.itemL{
+	
+	/*width: 280px;*/
+	/*border: 1px solid skyblue;*/
+	/*min-height: 200px;*/
+	font-size: 16px;
+	font-family: sans-serif;
+	font-weight: 500;
+	color: skyblue;
+	background-color: black;
+	
+	text-align: center;
+}
+
+.owl-prev{
+	position: absolute;
+	left: -30px;
+	top: 45%;
+	font-size: 30px;
+	
+}
+
+.owl-next{
+	position: absolute;
+	right: -30px;
+	top: 45%;
+	font-size: 30px;
+	
+
+}
+
+#text1{
+	margin: 3.0em 0.0em;
+	overflow: hidden;
+	color: skyblue;
+	background-color: black;
+}
